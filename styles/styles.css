@@ -336,6 +336,12 @@
 
 }
 
+/* ---------------- */
+.list-group-item:hover{
+  background-color: #F8F9D7;
+  transform: scale(1.08);
+}
+
 
 
 
